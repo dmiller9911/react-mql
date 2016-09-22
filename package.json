@@ -1,7 +1,7 @@
 {
   "author": "Doug Miller <doug.miller@outlook.com>",
   "name": "react-mql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Component, HOC, and Redux Reducer to manage mediaQueries.",
   "main": "lib/index.js",
   "scripts": {
